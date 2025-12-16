@@ -1,0 +1,19 @@
+// grpc/length.proto
+syntax = "proto3";
+
+package length;
+
+// The service definition
+service LengthService {
+  rpc GetLength (LengthRequest) returns (LengthResponse);
+}
+
+// Request message
+message LengthRequest {
+  string value = 1;
+}
+
+// Response message
+message LengthResponse {
+  int32 length = 1;
+}
