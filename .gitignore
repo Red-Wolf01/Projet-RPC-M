@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Editor/OS
+.vscode/
+.DS_Store
+
+# Reports/exports (optional)
+# Uncomment if you don't want to version generated PDFs
+# *.pdf

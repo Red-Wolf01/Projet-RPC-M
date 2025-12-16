@@ -2,9 +2,10 @@
 ## Analyse comparative RPC : XML-RPC, XDR-RPC, JSON-RPC, REST/JSON, gRPC
 
 **Module :** Développement d'Applications Réparties  
-**Étudiant :** [Votre Nom]  
-**Date :** 16 Décembre 2025  
-**Institution :** ISSAT Mateur – Département Informatique & Télécom
+**Étudiant :** Saif Eddine Riahi 
+**enseignant :** Maher Jabberi
+**Date :** 10 Décembre 2025  
+**Institution :** ISSAT Mateur
 
 ---
 
@@ -338,6 +339,6 @@ Les captures Wireshark ont validé les caractéristiques théoriques : XML/JSON 
 
 ---
 
-**Auteur :** [Votre Nom]  
-**Dépôt Git :** [URL GitHub/GitLab]  
-**Date :** 16 Décembre 2025
+**Auteur :** Saif Eddine Riahi 
+**Dépôt Git :** [GitHub Saif Riahi](https://github.com/Red-Wolf01/Projet-RPC-M.git) 
+**Date :** 10 Décembre 2025
